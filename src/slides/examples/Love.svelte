@@ -3,7 +3,7 @@
 </script>
 
 <section>
-    <h2>{partner.join(' + ')} = <span class="heart">&#x2764</span></h2>
+    <h2>{partner.join(' + ')} = <span class="heart">&#x1F32E</span></h2>
     Lets have fun!
 </section>
 
